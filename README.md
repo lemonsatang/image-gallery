@@ -19,3 +19,7 @@
 
 ## 데모 화면
 ![alt text](image.png)
+
+
+## 화면 링크
+https://imagegalley-lemonsatang.netlify.app/
